@@ -14,4 +14,4 @@ git commit //uploads the files in the staging area to the local repo
 
 git remote add <name given to the remote, usually origin> <repo url> //Connect to the GitHub repo and name it origin
 
-git push <remote repo name given in the prior step> <local branch name>
+git push <remote repo name given in the prior step> <local branch name> //Uplodas the files commited to the remote repo and sync the local pointer with the remote one
